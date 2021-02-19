@@ -92,34 +92,26 @@
 
 //Logend
 
-L.Control.Watermark = L.Control.extend({
-    onAdd: function(map) {
-        var img = L.DomUtil.create('img');
+//L.Control.Watermark = L.Control.extend({
+//    onAdd: function(map) {
+//        var img = L.DomUtil.create('img');
 
-        img.src = 'images/north2.png';
-        img.style.width = '600px';
+//        img.src = 'images/north2.png';
+//        img.style.width = '600px';
 
-        return img;
-    },
+//        return img;
+//    },
 
-    onRemove: function(map) {
-        // Nothing to do here
-    }
-});
+//    onRemove: function(map) {
+        
+//    }
+//});
 
-L.control.watermark = function(opts) {
-    return new L.Control.Watermark(opts);
-}
+//L.control.watermark = function(opts) {
+//    return new L.Control.Watermark(opts);
+//}
 
-L.control.watermark({ position: 'bottomright' }).addTo(map);
-
-
-
-
-
-
-
-
+//L.control.watermark({ position: 'bottomright' }).addTo(map);
 
 
 
