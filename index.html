@@ -116,7 +116,7 @@
 
 
         var hash = new L.Hash(map);
-        map.attributionControl.setPrefix('<a href="https://github.com/timorleste" target="_blank">OpenSource GeoMapDev_Contact: Tony Behar</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="">CAMSTL-Centro Audiovisual Max Stahl Timor-Leste</a>');
+        map.attributionControl.setPrefix('<a href="https://github.com/timorleste" target="_blank">OpenSource GeoMapDev_Contact: Tony Behar</a> <a href="">CAMSTL-Centro Audiovisual Max Stahl Timor-Leste</a>');
         var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
         L.control.locate({locateOptions: {maxZoom: 19}}).addTo(map);
         var bounds_group = new L.featureGroup([]);
