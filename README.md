@@ -6,4 +6,4 @@ The map illustrates the extent of the settlement locality, suco boundaries datab
 Click on the map to receive more information about individual point objects on the map.
 
 Demonstration of Thematic Layers in CAMSTL Timor-Leste Localhost Server Refer to Data Source Notes for additional information.
-18-02-2001  -  18-02-2021
+[ Metadata 18-02-2001  -  18-02-2021 ]
