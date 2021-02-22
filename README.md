@@ -6,10 +6,14 @@ This map illustrates the extent of the settlement locality, suco boundaries data
 Demonstration of thematic layers at CAMSTL Timor-Leste localhost server. 
 Refer to data source notes for additional information. [ Metadata 18-02-2001 - 18-02-2021 ].
 
-[Version_01 - AILEU Map Info](https://timorleste.github.io/aileu"Suco Map")
+Reference Development:
 
-[Version_01 - AILEU Map Info](https://timorleste.github.io/aileu"Suco Map")
+[Version_01 - AILEU Map Info](https://timorleste.github.io/aileu "Suco Map")
 
-[Version_01 - AILEU Map Info](https://timorleste.github.io/aileu"Suco Map")
+[Version_01 - AILEU Map Info](https://timorleste.github.io/aileu "Suco Map")
 
-[Version_01 - AILEU Map Info](https://timorleste.github.io/aileu"Suco Map")
+[Version_01 - AILEU Map Info](https://timorleste.github.io/aileu "Suco Map")
+
+[Version_01 - AILEU Map Info](https://timorleste.github.io/aileu "Suco Map")
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
