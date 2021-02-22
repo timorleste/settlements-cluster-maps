@@ -1,19 +1,19 @@
-# settlements-cluster-maps
+# settlements-cluster-overlay suco municipality boundaries and raster maps
+
+This map illustrates the extent of the settlement locality, suco boundaries database. Click on the map to receive more information about individual point objects on the map.
+Demonstration of thematic layers at CAMSTL Timor-Leste Audiovisual Archive Localhost server. 
+Refer to data source notes for additional information. [ Metadata 18-02-2001 - 18-02-2021 ].
 
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/cluster-maps-overlay.png?raw=true)
 
-On Select CoVid19 Control region Oecusse Municipality Suco Border Map  [Timor Leste - Indonesia]
+On Select CoVid19 Control region Oecusse Municipality Suco boundaries Map  [Timor Leste - Indonesia]
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/oecusse-c.png?raw=true) 
 
-On Select CoVid19 Control Municipality Suco Border Map [Timor Leste - Indonesia]
+On Select CoVid19 Control Municipality Suco boundaries Map [Timor Leste - Indonesia]
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/bobonaro-c.png?raw=true) 
 
-On Select CoVid19 Control Municipality Suco Border Map [Timor Leste - Indonesia]
+On Select CoVid19 Control Municipality Suco boundaries Map [Timor Leste - Indonesia]
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/covalima-c.png?raw=true)  
-
-This map illustrates the extent of the settlement locality, suco boundaries database. Click on the map to receive more information about individual point objects on the map.
-Demonstration of thematic layers at CAMSTL Timor-Leste localhost server. 
-Refer to data source notes for additional information. [ Metadata 18-02-2001 - 18-02-2021 ].
 
 Reference Suco Map Development:
 
