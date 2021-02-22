@@ -46,7 +46,7 @@ Reference Municipality Suco Boundaries Map Development:
 [Version_01 - VIQUEQUE Map Info](https://timorleste.github.io/viqueque "Suco Map")
 
 
-Reference GIS Development:
+Reference Other GIS Development:
 
 [Version_01 - Elevation Map](https://timorleste.github.io/waterbodies "Waterbodies-Elevation Map")
 
