@@ -3,7 +3,10 @@
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/cluster-maps.png?raw=true)
 
 Border region Oecusse Municipality Suco Map [Timor Leste - Indonesia]
-![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/oecusse-c.png?raw=true)  
+![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/oecusse-c.png?raw=true) 
+
+Border Bobonaro Municipality Suco Map [Timor Leste - Indonesia]
+![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/bobonaro-c.png?raw=true)  
   
 This map illustrates the extent of the settlement locality, suco boundaries database. Click on the map to receive more information about individual point objects on the map.
 Demonstration of thematic layers at CAMSTL Timor-Leste localhost server. 
