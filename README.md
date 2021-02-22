@@ -2,13 +2,13 @@
 
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/cluster-maps-overlay.png?raw=true)
 
-On Select Border CoVid19 Control region Oecusse Municipality Suco Map [Timor Leste - Indonesia]
+On Select CoVid19 Control region Oecusse Municipality Suco Border Map  [Timor Leste - Indonesia]
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/oecusse-c.png?raw=true) 
 
-On Select Border CoVid19 Control Municipality Suco Map [Timor Leste - Indonesia]
+On Select CoVid19 Control Municipality Suco Border Map [Timor Leste - Indonesia]
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/bobonaro-c.png?raw=true) 
 
-On Select Border CoVid19 Control Municipality Suco Map [Timor Leste - Indonesia]
+On Select CoVid19 Control Municipality Suco Border Map [Timor Leste - Indonesia]
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/covalima-c.png?raw=true)  
 
 This map illustrates the extent of the settlement locality, suco boundaries database. Click on the map to receive more information about individual point objects on the map.
