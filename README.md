@@ -15,7 +15,7 @@ On Select CoVid19 Control Bobonaro Municipality Suco boundaries Map [Timor Leste
 On Select CoVid19 Control Covalima Municipality Suco boundaries Map [Timor Leste - Indonesia]
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/covalima-c.png?raw=true)  
 
-GeoReference Municipality Suco Boundaries Map Development:
+For a complete list of attributes, see the GeoReference Municipality Suco Boundaries:
 
 [Version_01 - AILEU Map Info](https://timorleste.github.io/aileu "Suco Map")
 
