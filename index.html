@@ -79,6 +79,35 @@
         })
 
 
+	
+//Legend
+
+L.Control.Watermark = L.Control.extend({
+    onAdd: function(map) {
+        var img = L.DomUtil.create('img');
+
+        img.src = 'images/settlements-suco-map-qr.png';
+        img.style.width = '90px';
+
+        return img;
+    },
+
+    onRemove: function(map) {
+        
+    }
+});
+
+L.control.watermark = function(opts) {
+    return new L.Control.Watermark(opts);
+}
+
+L.control.watermark({ position: 'topright' }).addTo(map);	
+	
+	
+	
+	
+	
+	
 		
 
         var hash = new L.Hash(map);
