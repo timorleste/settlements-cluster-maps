@@ -16,7 +16,9 @@ On Select CoVid19 Control Covalima Municipality Suco boundaries Map [Timor Leste
 ![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/covalima-c.png?raw=true) 
 
 If using latest Internet Browser the QR-Code Object automatically generated, find by Right Click on the Map
-![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/qr-code-browser-based.png?raw=true)  
+![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/qr-code-browser-based.png?raw=true) 
+
+![alt text](https://github.com/timorleste/settlements-cluster-maps/blob/main/images/localhost-geodatabase.png?raw=true)
 
 Geodatabase-Georeference Preservation:
 
